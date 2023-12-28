@@ -1,0 +1,3 @@
+﻿  labworkpotoki.cpp
+C:\Users\denis\source\repos\labworkpotoki\labworkpotoki\labworkpotoki.cpp(199,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  labworkpotoki.vcxproj -> C:\Users\denis\source\repos\labworkpotoki\x64\Debug\labworkpotoki.exe

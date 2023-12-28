@@ -1,0 +1,9 @@
+﻿  potokfilelab.cpp
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(322,65): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(441,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(475,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(520,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(593,84): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(594,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\denis\source\repos\potokfilelab\potokfilelab\potokfilelab.cpp(596,50): warning C4305: аргумент: усечение из "double" в "float"
+  potokfilelab.vcxproj -> C:\Users\denis\source\repos\labworkpotoki\x64\Debug\potokfilelab.exe

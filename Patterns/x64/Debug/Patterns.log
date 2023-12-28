@@ -1,0 +1,5 @@
+﻿  Cards.cpp
+E:\Grov\OOP\Patterns\Cards.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Patterns.vcxproj -> E:\Grov\OOP\x64\Debug\Patterns.exe

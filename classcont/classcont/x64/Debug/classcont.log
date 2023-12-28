@@ -1,0 +1,5 @@
+﻿  classcont.cpp
+C:\Users\denis\source\repos\classcont\classcont\classcont.cpp(65,19): warning C4129: +: неизвестная escape-последовательность
+C:\Users\denis\source\repos\classcont\classcont\classcont.cpp(65,19): warning C4129: (: неизвестная escape-последовательность
+C:\Users\denis\source\repos\classcont\classcont\classcont.cpp(65,19): warning C4129: ): неизвестная escape-последовательность
+  classcont.vcxproj -> C:\Users\denis\source\repos\classcont\x64\Debug\classcont.exe
